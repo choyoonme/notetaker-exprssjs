@@ -1,0 +1,25 @@
+{
+  "name": "notetaker-exprssjs",
+  "version": "1.0.0",
+  "description": "# 11 Express.js: Note Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choyoonme/notetaker-exprssjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choyoonme/notetaker-exprssjs/issues"
+  },
+  "homepage": "https://github.com/choyoonme/notetaker-exprssjs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
